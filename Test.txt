@@ -7,3 +7,5 @@ Hi this is third line 3
 after pushing to remote 1
 
 after pushing to remote 2
+
+going ahead in main branch
