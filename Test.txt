@@ -15,3 +15,5 @@ going ahead in main again
 going ahead in main again again
 
 added this line from terminal
+
+making changes from remote (local doesnt know)
